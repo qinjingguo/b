@@ -1,0 +1,29 @@
+.all{
+	width: 600px;
+	height: 800px;
+	background-color: pink;
+	padding: 20px;
+	margin: 0 auto
+}
+.scr{
+	background-color: #e1d7d3;
+	width: 500px;
+	height: 100px;
+	margin: 0 auto
+}
+.one{
+	background-color: #cfd8e6;
+	width: 100px;
+	height: 100px;
+	margin: 50px 20px 20px 20px
+}
+.word{
+	color:white;
+	font-size: 6em;
+	position: fixed;
+	width: 50%;
+	height: 50%;
+	overflow: auto;
+	margin: auto;
+	position: absolute;
+}
