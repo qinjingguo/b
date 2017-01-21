@@ -1,0 +1,13 @@
+h1.one{margin-top: 50px}
+h2.two{margin-top: 50px;
+       position:relative;
+       left: 100px;}
+h3.three{margin-top: 50px}
+h4.four{margin-top: 50px}
+.dd{
+	background: url('./3_03.png');
+	background-size: cover;
+	width: 200px;
+	height: 100px;
+	color: red;
+}
